@@ -1,0 +1,17 @@
+@media screen and (max-width:1024px) {
+    body{
+       height: fit-content;
+    }
+    .main{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        height: fit-content;
+    }
+    .wrapper{
+        width: fit-content;
+        margin-top: 0;
+    }
+    
+}
